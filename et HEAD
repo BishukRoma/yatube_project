@@ -1,0 +1,17 @@
+[33mcommit 5c80a5a1169ca8cc05acf206d15bc3cd3d21bde7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: BishukRoma <r.bishuk@gmail.com>
+Date:   Wed Jan 18 17:34:25 2023 +0300
+
+    созданы страницы главная и групп пост.
+
+[33mcommit 4c5b2c4ee649c49cc56df2fc2ac2b71e5f0bc388[m
+Author: BishukRoma <r.bishuk@gmail.com>
+Date:   Wed Jan 18 16:01:20 2023 +0300
+
+    Создание структуры проекта
+
+[33mcommit f0039a8f16c53764b3ac98b021a10fe233a5e552[m
+Author: BishukRoma <58634161+BishukRoma@users.noreply.github.com>
+Date:   Wed Jan 18 15:15:35 2023 +0300
+
+    Initial commit
